@@ -1,0 +1,95 @@
+.w {
+    width: 1200px;
+    margin: 0 auto;
+}
+header {
+    height: 84px;
+    border-bottom: 2px solid #c81523;
+}
+.logo {
+    padding-top: 18px;
+}
+.registerarea {
+    height: 480px;
+    border: 1px solid #ccc;
+    margin-top: 20px;
+}
+.registerarea h3 {
+    height: 42px;
+    border-bottom: 1px solid #ccc;
+    background-color: #ececec;
+    margin: 0;
+    padding: 0 30px;
+    line-height: 42px;
+    font-size: 18px;
+    font-weight: normal;
+}
+.login {
+    float: right;
+    font-size: 14px;
+    font-weight: 700;
+}
+.login a {
+    color: #c81523;
+}
+.reg_form {
+    width: 600px;
+    margin: 50px auto 0;
+}
+
+.reg_form ul li {
+    margin-bottom: 20px;
+}
+.reg_form ul li label {
+    display: inline-block;
+    width: 200px;
+    text-align: right;
+    margin-right: 10px;
+    font-size: 14px;
+    font-weight: normal;
+}
+.reg_form ul li:nth-child(-n+4) input {
+    width: 300px;
+    height: 42px;
+    padding-left: 15px;
+    border: 1px solid #ccc;
+    border-radius: 10px;
+} 
+.agree {
+    padding-left: 184px;
+}
+.agree input {
+    margin-right: 10px;
+}
+.agree a {
+    margin: 0 3px;
+    font-weight: 700;
+    color: #c81523;
+}
+.agree a:hover {
+    text-decoration: none;
+}
+.reg_form .btn {
+    width: 150px;
+    height: 30px;
+    margin: 10px 0 0 205px;
+    color: #fff;
+    font-weight: 700;
+    background-color: #c81523;
+    text-align: center;
+    cursor: pointer;
+}
+
+.mod_copyright {
+    text-align: center;
+    padding-top: 20px;
+}
+.links {
+    margin-bottom: 15px;
+}
+.mod_copyright .split {
+    margin:  0 6px;
+}
+.copyright {
+    line-height: 20px;
+}

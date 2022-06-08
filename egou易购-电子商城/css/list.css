@@ -1,0 +1,37 @@
+.nav {
+    height: 37px;
+}
+
+
+.navitems>ul>li a {
+    padding: 0 38px;
+}
+.navitem_tab ul {
+    width: 104px;
+}
+.navitem_tab ul li {
+    width: 100px;
+
+}
+.sk {
+    position: absolute;
+    left: 190px;
+    top: 40px;
+    border-left: 1px solid #c81523;
+    padding: 3px 0 0  14px;
+}
+
+.sk_bd ul li {
+    overflow: hidden;
+    float: left;
+    margin-right: 13px;
+    width: 290px;
+    height: 460px;
+    border: 1px solid transparent;
+}
+.sk_bd ul li:nth-child(4n) {
+    margin-right: 0;
+}
+.sk_bd ul li:hover {
+    border: 1px solid #c81523;
+}
